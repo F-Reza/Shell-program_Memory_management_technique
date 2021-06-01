@@ -1,5 +1,4 @@
-# Shell-program_Memory_management_technique
-Shell program memory management technique ( MFT and MVT).
+# Shell program - Memory management technique ( MFT and MVT).
 
 
 ***Repository https://github.com/F-Reza/Shell-program_Memory_management_technique/
