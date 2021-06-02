@@ -31,13 +31,13 @@ snap sort: Input and Output
 3. Worst-fit   
 
 
-## First-fit:
+## Best-fit:
 snap sort: Input and Output    
 ![BF-Screenshot from 2021-05-10](https://user-images.githubusercontent.com/75982069/120421682-8a686c80-c388-11eb-8483-531a545b8ac8.png)    
 ![BF-Screenshot from 2021-05-10-1](https://user-images.githubusercontent.com/75982069/120421689-8ccac680-c388-11eb-9ecd-d66d1b772c8a.png)   
      
    
-## Best-fit:   
+## Worst-fit:   
 snap sort: Input and Output    
 ![WF-Screenshot from 2021-05-10](https://user-images.githubusercontent.com/75982069/120421692-8e948a00-c388-11eb-9dc8-dc50a50eea5c.png)
 
